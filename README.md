@@ -14,7 +14,7 @@ ASubScan is an Accurate Subdomain Scanner Tool.
 
 ### Setup ###
 
-+ pip install -r requirements.txt
++ pip3 install -r requirements.txt
 
 
 ### Terminal Command ###
