@@ -1,5 +1,5 @@
 [![python](https://img.shields.io/badge/python-3.9.0-yellow.svg)](https://www.python.org/downloads/release/python-390/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux-yellow.svg)(https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-yellow.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # ASubScan
 
